@@ -1,5 +1,7 @@
 # Adidas Sales Performance & Profitability Dashboard
 
+<img src="adidas dashboard overview.png" width="100%">
+
 ## 📌 Project Overview
 This project analyzes Adidas sales data to evaluate revenue, profitability, sales methods, and product performance across regions and time periods.  
 The dashboard is designed for **executive-level decision-making**.
