@@ -1,48 +1,49 @@
 # Adidas Sales Performance & Profitability Dashboard
 
 ## 📌 Project Overview
-This project analyzes Adidas sales performance across regions, product categories, sales methods, and retailers to provide executive-level business insights.
+This project analyzes Adidas sales data to evaluate revenue, profitability, sales methods, and product performance across regions and time periods.  
+The dashboard is designed for **executive-level decision-making**.
+
+---
 
 ## 🎯 Business Objectives
-- Evaluate revenue and operating profit trends
+- Track overall revenue, profit, and units sold
 - Identify top-performing product categories and retailers
-- Analyze sales distribution by channel and gender
+- Analyze sales trends across years and quarters
+- Understand profitability by sales method
 - Highlight the month with the highest revenue
+
+---
 
 ## 🛠 Tools & Technologies
 - Power BI
 - DAX
-- Excel / CSV
-- Custom Power BI Theme (Adidas Brand)
+- Excel (data preparation)
+- Power BI JSON Theme (custom Adidas branding)
 
-## 📊 Key KPIs
-- Total Revenue: $120M
-- Operating Profit: $47M
-- Units Sold: 2M
-- Profit Margin: 39.3%
-- Highest Revenue Month: July 2021
+---
 
-## 🔍 Key Insights
-- Sales grew significantly in 2021 compared to 2020, indicating strong post-pandemic recovery
-- Street Footwear is the highest revenue-generating category
-- Online channel contributes the largest share of total sales
-- A small group of retailers contributes the majority of revenue (Pareto principle)
+## 📊 Dashboard Preview
+![Adidas Sales Dashboard](adidasdashboardoverview.png)
 
-## 🎨 Dashboard Features
-- Interactive slicers (Region, State, City, Sales Period)
-- Reset Filters button
-- Insights panel
-- Custom Adidas brand theme
-- Executive KPI cards
+---
 
-## 📁 Repository Structure
-- `dashboard/` → Power BI (.pbix) file  
-- `data/` → Dataset used for analysis  
-- `theme/` → Custom Power BI theme JSON  
-- `images/` → Dashboard preview  
+## 📈 Key Insights
+- Revenue grew significantly in 2021, driven by strong Q2 and Q3 performance
+- Street Footwear is the top revenue contributor across regions
+- Online sales generate the highest revenue share among sales methods
+- A small number of retailers contribute the majority of total sales
+- July 2021 recorded the highest monthly revenue across both years
 
-## 📎 Dataset Source
-Public dataset (for learning and portfolio purposes)
+---
 
-## 🚀 Author
-Aspiring Data Analyst | Power BI | SQL | Python
+## 💡 Business Recommendations
+- Increase focus on high-margin product categories
+- Strengthen online sales strategy to maximize profitability
+- Optimize retailer partnerships based on sales contribution
+- Investigate underperforming regions with high sales but lower profit margins
+
+---
+
+## 🎨 Custom Theme
+A custom **Adidas-branded Power BI theme** is included:
