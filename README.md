@@ -18,6 +18,7 @@ Analyze Adidas sales performance across time, products, and regions to identify 
 - Profit margins remain stable despite increasing sales volumes.
 - Certain product categories drive high sales but lower margins.
 
+
 ## 🛠 Tools & Technologies
 - Power BI
 - DAX
@@ -30,13 +31,11 @@ Analyze Adidas sales performance across time, products, and regions to identify 
 - Clear hierarchy and spacing
 - Insight-driven layout
 
+## 📁 Files Included
+- `Adidas_Sales_Dashboard.pbix`
+- `adidas_powerbi_theme.json`
 
 ## 🚀 Future Enhancements
 - Add regional drill-through
 - Forecast sales trends
 - Customer segmentation analysis
-
----
-
-## 🎨 Custom Theme
-A custom **Adidas-branded Power BI theme** is included:
