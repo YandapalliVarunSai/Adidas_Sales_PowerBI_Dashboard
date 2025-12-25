@@ -23,11 +23,6 @@ The dashboard is designed for **executive-level decision-making**.
 
 ---
 
-## 📊 Dashboard Preview
-![Adidas Sales Dashboard](adidasdashboardoverview.png)
-
----
-
 ## 📈 Key Insights
 - Revenue grew significantly in 2021, driven by strong Q2 and Q3 performance
 - Street Footwear is the top revenue contributor across regions
