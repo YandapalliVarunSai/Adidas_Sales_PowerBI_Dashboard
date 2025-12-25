@@ -2,43 +2,39 @@
 
 <img src="adidas dashboard overview.png" width="100%">
 
-## 📌 Project Overview
-This project analyzes Adidas sales data to evaluate revenue, profitability, sales methods, and product performance across regions and time periods.  
-The dashboard is designed for **executive-level decision-making**.
+## 📌 Business Objective
+Analyze Adidas sales performance across time, products, and regions to identify revenue drivers, profitability trends, and growth opportunities.
 
----
+## 📊 Key KPIs
+- Total Sales
+- Operating Profit
+- Profit Margin %
+- Units Sold
+- Top Performing Month
 
-## 🎯 Business Objectives
-- Track overall revenue, profit, and units sold
-- Identify top-performing product categories and retailers
-- Analyze sales trends across years and quarters
-- Understand profitability by sales method
-- Highlight the month with the highest revenue
-
----
+## 🔍 Key Insights
+- Sales show consistent YoY growth, indicating strong market demand.
+- A small set of months contributes disproportionately to total revenue.
+- Profit margins remain stable despite increasing sales volumes.
+- Certain product categories drive high sales but lower margins.
 
 ## 🛠 Tools & Technologies
 - Power BI
 - DAX
-- Excel (data preparation)
-- Power BI JSON Theme (custom Adidas branding)
+- Excel
+- Custom Power BI Theme (Adidas brand)
 
----
+## 🎨 Design Standards
+- Brand-aligned Adidas theme
+- Minimalist KPI cards
+- Clear hierarchy and spacing
+- Insight-driven layout
 
-## 📈 Key Insights
-- Revenue grew significantly in 2021, driven by strong Q2 and Q3 performance
-- Street Footwear is the top revenue contributor across regions
-- Online sales generate the highest revenue share among sales methods
-- A small number of retailers contribute the majority of total sales
-- July 2021 recorded the highest monthly revenue across both years
 
----
-
-## 💡 Business Recommendations
-- Increase focus on high-margin product categories
-- Strengthen online sales strategy to maximize profitability
-- Optimize retailer partnerships based on sales contribution
-- Investigate underperforming regions with high sales but lower profit margins
+## 🚀 Future Enhancements
+- Add regional drill-through
+- Forecast sales trends
+- Customer segmentation analysis
 
 ---
 
