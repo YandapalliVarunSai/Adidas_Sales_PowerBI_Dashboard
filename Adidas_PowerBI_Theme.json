@@ -1,0 +1,65 @@
+{
+  "name": "Adidas Brand Theme",
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#000000",
+
+  "dataColors": [
+    "#000000",
+    "#1E90FF",
+    "#6C757D",
+    "#ADB5BD",
+    "#DEE2E6"
+  ],
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 14,
+            "color": "#000000",
+            "alignment": "center"
+          }
+        ],
+        "labels": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 11,
+            "color": "#000000"
+          }
+        ],
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 100
+          }
+        ]
+      }
+    },
+
+    "card": {
+      "*": {
+        "calloutValue": [
+          {
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 36,
+            "color": "#000000"
+          }
+        ],
+        "categoryLabel": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 12,
+            "color": "#6C757D"
+          }
+        ]
+      }
+    }
+  }
+}
